@@ -1,3 +1,3 @@
 # Kattis
 Kattis solutions
-Solutions from the site https://open.kattis.com/
+My solutions from the site https://open.kattis.com/ written in Java
